@@ -1,6 +1,5 @@
 # **Calculator - Kotlin**  
 
-## **Overview**  
 The **Calculator** is a basic Android application built using **Kotlin**. It allows users to perform fundamental arithmetic operations, including **addition, subtraction, multiplication, and division**. The app features a clean and user-friendly interface designed for quick and easy calculations.  
 
 ---
